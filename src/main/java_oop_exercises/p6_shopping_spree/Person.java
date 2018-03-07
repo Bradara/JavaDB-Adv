@@ -14,19 +14,11 @@ public class Person {
         this.products = new ArrayList<>();
     }
 
-    public String getName() {
-        return name;
-    }
-
     public void setName(String name) {
         if (!name.isEmpty())
             this.name = name;
         else
             throw new IllegalArgumentException("Name cannot be empty");
-    }
-
-    public int getMoney() {
-        return money;
     }
 
     public void setMoney(int money) {

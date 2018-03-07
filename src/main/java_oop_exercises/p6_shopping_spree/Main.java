@@ -25,15 +25,21 @@ public class Main {
 
         String input;
 
-        while (!(input = br.readLine()).equalsIgnoreCase("end")) {
-            String[] params = input.split(" ");
-            String productName = params[1];
-            String personName = params[0];
+        try {
+            while (!(input = br.readLine()).equalsIgnoreCase("end")) {
+                String[] params = input.split(" ");
+                String productName = params[1];
+                String personName = params[0];
 
-            if (productList.containsKey(productName) && personList.containsKey(personName)) {
-                Product product = productList.get(productName);
-                personList.get(personName).buyProduct(product);
+                if (productList.containsKey(productName) && personList.containsKey(personName)) {
+                    Product product = productList.get(productName);
+                    personList.get(personName).buyProduct(product);
+                }
             }
+        } catch (Exception e) {
+
+        } finally {
+
         }
 
         for (Person person : personList.values()) {
