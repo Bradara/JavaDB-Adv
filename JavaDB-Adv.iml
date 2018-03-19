@@ -9,9 +9,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java_basics_exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Java_fundamental" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/JavaOOPPinciples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/intro_to_db_apps" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql-connector-java-5.1" level="application" />
   </component>
 </module>

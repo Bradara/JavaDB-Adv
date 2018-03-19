@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java" line="88" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="316e7839-e981-4f7d-80dc-c2b6972db0a7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p10_group_by_group/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p10_group_by_group/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Database.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidArtistNameException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongLengthException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongMinutesException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongNameException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongSecondsException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Songs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p1_students_by_group/StudentsByGroup.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p2_students_by_first_last_name/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p3_students_by_age/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p4_sort_students/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p5_students_by_email_domain/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p6_filter_students_by_phone/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p7_exellent_students/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p8_weak_students/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Java_fundamental/p9_students_enrolled_in_2014_2015/Main.java" />
+    <list default="true" id="316e7839-e981-4f7d-80dc-c2b6972db0a7" name="Default" comment="JDBC HomeWork">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Car.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Truck.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Vehicle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Animal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Cat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Dog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Frog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Kitten.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Tomcat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Connector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/TasksDefinition.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/minionsDB.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/intro_to_db_apps/p2_get_minion_names/Main.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/JavaDB-Adv.iml" afterPath="$PROJECT_DIR$/JavaDB-Adv.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java_basics_exercises/p6_compare_char_array.java" afterPath="$PROJECT_DIR$/src/main/java_basics_exercises/p6_compare_char_array.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java_oop_exercises/p10_beer_counter/Main.java" afterPath="$PROJECT_DIR$/src/main/java_oop_exercises/p10_beer_counter/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,26 +38,111 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MinionsDB@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MinionsDB@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MinionsDB@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="MinionsDB: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MinionsDB@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="MinionsDB: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="evilness: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MinionsDB@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="MinionsDB: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="minions: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MinionsDB@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="MinionsDB: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="villains: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Songs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Songs.java">
+      <file leaf-file-name="Problems.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="273">
+              <caret line="136" column="31" lean-forward="true" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
               <folding>
-                <element signature="e#1932#1933#0" expanded="true" />
-                <element signature="e#1987#1988#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="method#p2GetVillainsNames#0;class#Problems#0" expanded="false" />
+                <element signature="method#p6RemoveVillain#0;class#Problems#0" expanded="false" />
+                <element signature="method#p7PrintAllMinion#0;class#Problems#0" expanded="false" />
+                <element signature="method#p8IncreaseMinionAge#0;class#Problems#0" expanded="false" />
+                <element signature="method#printAllMinionWithAge#0;class#Problems#0" expanded="false" />
+                <element signature="method#increaseAge#0;class#Problems#0" expanded="false" />
+                <element signature="method#titleCase#0;class#Problems#0" expanded="false" />
+                <element signature="method#checkForMinionId#0;class#Problems#0" expanded="false" />
+                <element signature="method#checkVillain#0;class#Problems#0" expanded="false" />
+                <element signature="method#checkTown#0;class#Problems#0" expanded="false" />
+                <marker date="1521434692424" expanded="true" signature="277:324" ph="SELECT v.nam... villains" />
+                <marker date="1521434692424" expanded="true" signature="669:938" ph="SELECT v.nam... villains" />
+                <marker date="1521434692424" expanded="true" signature="1445:1624" ph="SELECT m.nam... minions" />
+                <marker date="1521434692424" expanded="true" signature="5953:5985" ph="DELETE FROM villains... " />
+                <marker date="1521434692424" expanded="true" signature="6034:6082" ph="DELETE FROM villains_minions... " />
+                <marker date="1521434692424" expanded="true" signature="6656:6709" ph="SELECT m.nam... minions" />
+                <marker date="1521434692424" expanded="true" signature="8373:8411" ph="SELECT m.nam... minions" />
+                <marker date="1521434692424" expanded="true" signature="8763:8852" ph="SELECT m.nam... minions" />
+                <marker date="1521434692424" expanded="true" signature="8885:8995" ph="UPDATE minions... " />
+                <marker date="1521434692424" expanded="true" signature="10657:10748" ph="SELECT v.id\... villains" />
+                <marker date="1521434692424" expanded="true" signature="10940:11015" ph="INSERT INTO villains... " />
+                <marker date="1521434692424" expanded="true" signature="11551:11639" ph="SELECT t.id\... towns" />
+                <marker date="1521434692424" expanded="true" signature="11825:11860" ph="INSERT INTO towns... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TasksDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/TasksDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="115" lean-forward="false" selection-start-line="3" selection-start-column="115" selection-end-line="3" selection-end-column="115" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="314">
+              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,15 +150,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Database.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Database.java">
+      <file leaf-file-name="Connector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Connector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="901">
+              <caret line="53" column="25" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#1536#1537#0" expanded="true" />
+                <element signature="e#1569#1570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +169,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -96,53 +186,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java_basics_exercises/p17_phonebook.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p2_advertisement_message/main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p3_last_digit_name/Number.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p3_last_digit_name/LastDigitName.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p3_last_digit_name/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p4_number_in_reversed_order/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p4_number_in_reversed_order/DecimalNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p5_intersection_of_circles/Point.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p5_intersection_of_circles/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p5_intersection_of_circles/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p6_shopping_spree/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p7_average_grade/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p7_average_grade/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p8_book_library/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p8_book_library/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p8_book_library/BookLibrary.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p9_students/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p9_students/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p9_beer_counter/BeerCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p10_beer_counter/BeerCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p10_beer_counter/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p6_shopping_spree/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/p6_shopping_spree/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java_oop_exercises/CountWorkingDays.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p1_students_by_group/StudentsByGroup.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p3_students_by_age/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p4_sort_students/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p5_students_by_email_domain/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p6_filter_students_by_phone/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p2_students_by_first_last_name/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p7_exellent_students/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p8_weak_students/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p9_students_enrolled_in_2014_2015/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p10_group_by_group/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p10_group_by_group/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidArtistNameException.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongNameException.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongLengthException.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongMinutesException.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongSecondsException.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Factory.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongException.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Songs.java" />
-        <option value="$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p1_define_interface/Identifiable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p1_define_interface/Birthable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p1_define_interface/Citizen.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p3_ferrari/DriveVar.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p3_ferrari/DriveCar.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p3_ferrari/Ferrari.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p3_ferrari/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Browsable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Callable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Smartphone.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/Citizen.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Pet.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Birthable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Citizen.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Teachable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Workable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Worker.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Drivable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Truck.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/SoundProducable.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Frog.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Tomcat.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Kitten.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/p1_get_villains_names/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/Connector.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/p2_get_minion_names/Connector.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/p1_get_villains_names/Connector.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/p1_get_villains_names/P1_GetVillainsNames.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/P1_GetVillainsNames.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/p2_get_minion_names/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Connector.java" />
+        <option value="src:table:/f2dc1b25/e1d907de-040f-43ee-8e59-5eeec6b319ab/MinionsDB.villains" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/TasksDefinition.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -171,7 +273,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,39 +296,53 @@
               <item name="JavaDB-Adv" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_fundamental" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_to_db_apps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDBAdv" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDB-Adv" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_fundamental" type="462c0819:PsiDirectoryNode" />
-              <item name="p11_radio_station" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_to_db_apps" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc_homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDBAdv" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDB-Adv" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_fundamental" type="462c0819:PsiDirectoryNode" />
-              <item name="p11_radio_station" type="462c0819:PsiDirectoryNode" />
-              <item name="Exception" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_to_db_apps" type="462c0819:PsiDirectoryNode" />
+              <item name="p2_get_minion_names" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDBAdv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Contests/CodeWars" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Downloads/SQL/mysql-connector-java-5.1.46" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -252,11 +367,11 @@
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="p9_students_enrolled_in_2014_2015.*" />
+          <option name="PATTERN" value="p7_mankind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="p9_students_enrolled_in_2014_2015.Main" />
+      <option name="MAIN_CLASS_NAME" value="p7_mankind.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -271,11 +386,11 @@
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="p10_group_by_group.*" />
+          <option name="PATTERN" value="p8_vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="p10_group_by_group.Main" />
+      <option name="MAIN_CLASS_NAME" value="p8_vehicle.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -287,14 +402,33 @@
       <module name="JavaDB-Adv" />
       <envs />
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="p7_exellent_students.*" />
+          <option name="PATTERN" value="p9_animals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="p7_exellent_students.Main" />
+      <option name="MAIN_CLASS_NAME" value="p9_animals.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaDB-Adv" />
+      <envs />
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jdbc_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jdbc_homework.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -309,11 +443,44 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="p8_weak_students.*" />
+          <option name="PATTERN" value="p5_border_control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="p8_weak_students.Main" />
+      <option name="MAIN_CLASS_NAME" value="p5_border_control.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaDB-Adv" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jdbc_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="p2_get_minion_names.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaDB-Adv" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="p1_get_villains_names.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -418,18 +585,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (5)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (5)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -446,6 +615,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519749501604</updated>
+      <workItem from="1520879158557" duration="2117000" />
+      <workItem from="1520997004702" duration="8346000" />
+      <workItem from="1521044743904" duration="6128000" />
+      <workItem from="1521060430115" duration="1062000" />
+      <workItem from="1521092817904" duration="1420000" />
+      <workItem from="1521129404997" duration="16138000" />
+      <workItem from="1521219503945" duration="6530000" />
+      <workItem from="1521271663909" duration="11923000" />
+      <workItem from="1521332550844" duration="39948000" />
     </task>
     <task id="LOCAL-00001" summary="VCS">
       <created>1519920983480</created>
@@ -468,8 +646,25 @@
       <option name="project" value="LOCAL" />
       <updated>1520394178480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JAVA FUNDAMENTALS Exercises">
+      <created>1520873778766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520873778766</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JAVA OOP Exercises 1 to 7">
+      <created>1521135554598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521135554598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,63 +676,70 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1924" height="1053" extended-state="6" />
+    <frame x="-2" y="0" width="1924" height="1053" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879817" sideWeight="0.51666665" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.48333332" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3337104" sideWeight="0.4828326" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286026" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.52109706" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264192" sideWeight="0.47890297" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33406115" sideWeight="0.4828326" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785408" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31330472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11629153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15487674" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="653" y="57" width="614" height="939" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3973799" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5107296" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.52109706" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15487674" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="653" y="57" width="614" height="939" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39824945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49356222" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286026" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.4892704" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785408" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3264192" sideWeight="0.47890297" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33511207" sideWeight="0.4828326" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785408" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09012876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11629153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -546,409 +748,453 @@
     <MESSAGE value="VCS" />
     <MESSAGE value="Java OOP Exercises 1 to 6" />
     <MESSAGE value="Java OOP Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java OOP Exercises" />
+    <MESSAGE value="JAVA FUNDAMENTALS Exercises" />
+    <MESSAGE value="JAVA OOP Exercises 1 to 7" />
+    <MESSAGE value="JDBC HomeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBC HomeWork" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java</url>
+          <line>257</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java</url>
+          <line>20</line>
+          <properties class="jdbc_homework.Problems" method="p2GetVillainsNames">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java_basics_exercises/p13_fit_str_in_20_shar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p3_ferrari/Ferrari.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_basics_exercises/p8_max_seq_increase_elem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p3_ferrari/DriveCar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_basics_exercises/p17_phonebook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Callable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_basics_exercises/test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Browsable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_basics_exercises/p15_url_parser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Smartphone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="544">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_basics_exercises/p14_mail_censor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p4_telephony/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p2_advertisement_message/main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Citizen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p3_last_digit_name/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p3_last_digit_name/Number.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Birthable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p4_number_in_reversed_order/DecimalNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="94" lean-forward="false" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+        <state relative-caret-position="221">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p4_number_in_reversed_order/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="272">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p5_intersection_of_circles/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p5_border_control/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="31" column="58" lean-forward="false" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p5_intersection_of_circles/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Teachable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p5_intersection_of_circles/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Workable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p6_shopping_spree/Product.java">
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="303">
+          <caret line="88" column="19" lean-forward="false" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p7_average_grade/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p8_book_library/BookLibrary.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+        <state relative-caret-position="680">
+          <caret line="40" column="88" lean-forward="false" selection-start-line="40" selection-start-column="88" selection-end-line="40" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p8_book_library/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Drivable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="459">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p9_students/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Truck.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p7_mankind/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p8_book_library/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="378">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p7_average_grade/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" column="73" lean-forward="false" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p9_students/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Truck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p10_beer_counter/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p8_vehicle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p10_beer_counter/BeerCounter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Frog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="153">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingConstructorAccessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="288" column="27" lean-forward="false" selection-start-line="288" selection-start-column="27" selection-end-line="288" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="508" column="5" lean-forward="true" selection-start-line="508" selection-start-column="5" selection-end-line="508" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/SoundProducable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#110#111#0" expanded="false" />
+            <element signature="e#150#151#0" expanded="false" />
+            <element signature="e#199#200#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Tomcat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <element signature="e#98#99#0" expanded="false" />
+            <element signature="e#138#139#0" expanded="false" />
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Kitten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="e#122#123#0" expanded="false" />
+            <element signature="e#164#165#0" expanded="false" />
+            <element signature="e#213#214#0" expanded="false" />
+            <element signature="e#242#243#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#109#110#0" expanded="false" />
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#198#199#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding>
+            <element signature="e#1046#1047#0" expanded="false" />
+            <element signature="e#1087#1088#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaOOPPinciples/p9_animals/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="55" column="38" lean-forward="false" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.sql/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/p2_get_minion_names/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="81" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521353101369" expanded="true" signature="665:756" ph="SELECT v.nam... villains" />
+            <marker date="1521353101369" expanded="true" signature="833:1012" ph="SELECT m.nam... minions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Downloads/SQL/mysql-connector-java-5.1.46/src/com/mysql/jdbc/ResultSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="6287" column="0" lean-forward="false" selection-start-line="6287" selection-start-column="0" selection-end-line="6287" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p6_shopping_spree/Person.java">
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.sql/java/sql/PreparedStatement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        <state relative-caret-position="553">
+          <caret line="479" column="12" lean-forward="false" selection-start-line="479" selection-start-column="12" selection-end-line="479" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/p6_shopping_spree/Main.java">
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.sql/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="1045" column="12" lean-forward="false" selection-start-line="1045" selection-start-column="12" selection-end-line="1045" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e1d907de-040f-43ee-8e59-5eeec6b319ab/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java_oop_exercises/CountWorkingDays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+    <entry file="das://table:/f2dc1b25/e1d907de-040f-43ee-8e59-5eeec6b319ab/MinionsDB.evilness">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../Programs/jdk-9.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java">
+    <entry file="das://src:table:/f2dc1b25/e1d907de-040f-43ee-8e59-5eeec6b319ab/MinionsDB.villains">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="78" column="11" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="11" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../Programs/jdk-9.0.1/lib/src.zip!/java.base/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="828" column="20" lean-forward="false" selection-start-line="828" selection-start-column="20" selection-end-line="828" selection-end-column="20" />
+    <entry file="das://table:/f2dc1b25/e1d907de-040f-43ee-8e59-5eeec6b319ab/MinionsDB.villains">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../Programs/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Connector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p1_students_by_group/StudentsByGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p2_students_by_first_last_name/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p3_students_by_age/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p4_sort_students/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="20" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p5_students_by_email_domain/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p6_filter_students_by_phone/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p7_exellent_students/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p8_weak_students/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="52" column="25" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="54" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p9_students_enrolled_in_2014_2015/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="52" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p10_group_by_group/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p10_group_by_group/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="901">
+          <caret line="53" column="25" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
           <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1569#1570#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongSecondsException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongNameException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongMinutesException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidSongLengthException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Exception/InvalidArtistNameException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Songs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#1932#1933#0" expanded="true" />
-            <element signature="e#1987#1988#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="314">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java_fundamental/p11_radio_station/Database.java">
+    <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/TasksDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="115" lean-forward="false" selection-start-line="3" selection-start-column="115" selection-end-line="3" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/intro_to_db_apps/jdbc_homework/Problems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="136" column="31" lean-forward="true" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="method#p2GetVillainsNames#0;class#Problems#0" expanded="false" />
+            <element signature="method#p6RemoveVillain#0;class#Problems#0" expanded="false" />
+            <element signature="method#p7PrintAllMinion#0;class#Problems#0" expanded="false" />
+            <element signature="method#p8IncreaseMinionAge#0;class#Problems#0" expanded="false" />
+            <element signature="method#printAllMinionWithAge#0;class#Problems#0" expanded="false" />
+            <element signature="method#increaseAge#0;class#Problems#0" expanded="false" />
+            <element signature="method#titleCase#0;class#Problems#0" expanded="false" />
+            <element signature="method#checkForMinionId#0;class#Problems#0" expanded="false" />
+            <element signature="method#checkVillain#0;class#Problems#0" expanded="false" />
+            <element signature="method#checkTown#0;class#Problems#0" expanded="false" />
+            <marker date="1521434692424" expanded="true" signature="277:324" ph="SELECT v.nam... villains" />
+            <marker date="1521434692424" expanded="true" signature="669:938" ph="SELECT v.nam... villains" />
+            <marker date="1521434692424" expanded="true" signature="1445:1624" ph="SELECT m.nam... minions" />
+            <marker date="1521434692424" expanded="true" signature="5953:5985" ph="DELETE FROM villains... " />
+            <marker date="1521434692424" expanded="true" signature="6034:6082" ph="DELETE FROM villains_minions... " />
+            <marker date="1521434692424" expanded="true" signature="6656:6709" ph="SELECT m.nam... minions" />
+            <marker date="1521434692424" expanded="true" signature="8373:8411" ph="SELECT m.nam... minions" />
+            <marker date="1521434692424" expanded="true" signature="8763:8852" ph="SELECT m.nam... minions" />
+            <marker date="1521434692424" expanded="true" signature="8885:8995" ph="UPDATE minions... " />
+            <marker date="1521434692424" expanded="true" signature="10657:10748" ph="SELECT v.id\... villains" />
+            <marker date="1521434692424" expanded="true" signature="10940:11015" ph="INSERT INTO villains... " />
+            <marker date="1521434692424" expanded="true" signature="11551:11639" ph="SELECT t.id\... towns" />
+            <marker date="1521434692424" expanded="true" signature="11825:11860" ph="INSERT INTO towns... " />
           </folding>
         </state>
       </provider>
@@ -982,6 +1228,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>mysql-connector-java-5.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

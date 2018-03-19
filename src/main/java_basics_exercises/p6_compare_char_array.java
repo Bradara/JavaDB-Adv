@@ -26,7 +26,7 @@ public class p6_compare_char_array {
         }
 
         if (isEqual) {
-            boolean firstIsLonger = arr1.length < arr2.length ? false : true;
+            boolean firstIsLonger = arr1.length >= arr2.length;
 
             if (firstIsLonger) {
                 printCharArr(arr2);
